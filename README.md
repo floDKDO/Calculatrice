@@ -1,4 +1,4 @@
-Rapport projet Calculatrice POO2 HALM Florian 21910278 TD1
+Rapport projet Calculatrice POO2 
 
 Projet réalisé SEUL.
 
