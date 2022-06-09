@@ -1,4 +1,4 @@
-Rapport projet Calculatrice POO2 
+Rapport projet Calculatrice POO2 en Java avec Swing
 
 Projet réalisé SEUL.
 
